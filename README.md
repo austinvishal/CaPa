@@ -16,6 +16,9 @@ This repository contains code for visualizing robot capability specially wrench 
 
 <p align="center">
 
+The video below shows a simple trajectory followed by cable driven shoulder joint showing active wrench capacity using polytope representation and also becomes degenerate when the joint is at 
+singular configuration.
+
 [![Watch more trajectory videos](https://raw.githubusercontent.com/austinvishal/CaPa/main/assets/thumbnailmain.png)](https://raw.githubusercontent.com/austinvishal/CaPa/main/assets/shoulderjoint.mp4)
 
 # Graphic Mockup
