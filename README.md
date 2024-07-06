@@ -30,6 +30,14 @@ A library of graphical and computational tools has been written in order to simp
 
 ![](https://github.com/austinvishal/CaPa/blob/main/assets/thumbnail.png)
 
+The degenerated polytope ie plane is shown for the particular configuration of the cable driven shoulder joint
+
+![](https://github.com/austinvishal/CaPa/blob/main/assets/scaledzonotope6spsstaskspace.png)
+
+The scaled wrench set of the cable driven shoulder joint is shown in the graphic mockup below
+
+![](https://github.com/austinvishal/CaPa/blob/main/assets/scaledzonotope6spss.png)
+
 </p>
 
 
