@@ -13,9 +13,10 @@ This repository contains code for visualizing robot capability specially wrench 
 # :page_facing_up: Dependencies
 * [MPT3](https://www.mpt3.org/): for the computational geometry tools .
 
+
 <p align="center">
 
-[![Watch more trajectory videos](https://raw.githubusercontent.com/austinvishal/CaPa/blob/main/assets/zonopi3pi3.png)](https://github.com/austinvishal/CaPa/blob/main/assets/shoulderjoint.mp4)
+[![Watch more trajectory videos](https://github.com/austinvishal/CaPa/blob/main/assets/zonopi3pi3.png)](https://github.com/austinvishal/CaPa/blob/main/assets/shoulderjoint.mp4)
 
 # Graphic Mockup
 
