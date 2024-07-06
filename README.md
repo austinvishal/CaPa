@@ -16,7 +16,7 @@ This repository contains code for visualizing robot capability specially wrench 
 
 <p align="center">
 
-[![Watch more trajectory videos](https://github.com/austinvishal/CaPa/blob/main/assets/thumbnail.png)](https://github.com/austinvishal/CaPa/blob/main/assets/video.mp4)
+[![Watch more trajectory videos](https://github.com/austinvishal/CaPa/blob/main/assets/thumbnailmain.png)](https://github.com/austinvishal/CaPa/blob/main/assets/shoulderjoint.mp4)
 
 # Graphic Mockup
 
