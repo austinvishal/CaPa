@@ -16,7 +16,7 @@ This repository contains code for visualizing robot capability specially wrench 
 
 <p align="center">
 
-[![Watch more trajectory videos](https://github.com/austinvishal/CaPa/blob/main/assets/zonopi3pi3.png)](https://github.com/austinvishal/CaPa/blob/main/assets/shoulderjoint.mp4)
+[![Watch more trajectory videos](https://github.com/austinvishal/CaPa/blob/main/assets/thumbnail.png)](https://github.com/austinvishal/CaPa/blob/main/assets/shoulderjoint.mp4)
 
 # Graphic Mockup
 
@@ -25,7 +25,7 @@ A library of graphical and computational tools has been written in order to simp
 
 <p align="center">
 
-![](https://github.com/austinvishal/CaPa/blob/main/assets/zonopi3pi3.png)
+![](https://github.com/austinvishal/CaPa/blob/main/assets/thumbnail.png)
 
 </p>
 
